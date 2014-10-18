@@ -12,5 +12,6 @@ using namespace std;
 int main() {
 	cout << "Hello World." << endl;
 	cout << "New text.\n";
+	cout << "Changed from workspace.\n";
 	return 0;
 }
