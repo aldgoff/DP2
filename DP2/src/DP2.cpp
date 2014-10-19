@@ -13,5 +13,7 @@ int main() {
 	cout << "Hello World." << endl;
 	cout << "New text.\n";
 	cout << "Changed from workspace.\n";
+	cout << "Changed from local respository.\n";
+
 	return 0;
 }
